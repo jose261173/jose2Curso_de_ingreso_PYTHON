@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Curso_de_ingreso_PYTHON-main",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.testing.unittestArgs": [
+			"-v",
+			"-s",
+			".",
+			"-p",
+			"*test.py"
+		],
+		"python.testing.pytestEnabled": false,
+		"python.testing.unittestEnabled": true
+	}
+}
